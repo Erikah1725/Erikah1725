@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas Vindas ao Meu Perfil <3
 
-<!--
-**Erikah1725/Erikah1725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Erikah1725
 
-Here are some ideas to get you started:
+- Estudante do [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+
+0000111643328XSP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/F2Yu8YbVV_MAAAAC/hello-cat.gif)
